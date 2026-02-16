@@ -1,3 +1,3 @@
-Esta linha foi alterada na master
+Linha alterada na branchA
 Estou a aprender Git!
 Linha criada na nova branch

@@ -1,1 +1,2 @@
 Olá Git!
+Estou a aprender Git!

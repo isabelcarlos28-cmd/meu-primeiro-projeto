@@ -1,2 +1,3 @@
 Olá Git!
 Estou a aprender Git!
+Linha criada na nova branch
